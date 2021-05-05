@@ -13,6 +13,4 @@ Issues, Questions and Comments
 
 Please raise any issues, questions or comments as a new issue in this repository.
 
-Changelog
-Date 	Changes
-01/01/2021 	Initial version published
+Initial version published - 01/01/2021
