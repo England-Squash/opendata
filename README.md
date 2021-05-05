@@ -2,7 +2,7 @@
 
 Open Data Endpoints
 
-    http://squash.windows/public/v1/ - a feed of sessions from england squash
+    http://squash.windows/public/v1/sessions - a feed of sessions from england squash
     
 Standards
 
