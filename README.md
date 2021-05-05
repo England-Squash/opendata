@@ -1,10 +1,10 @@
 # England Squash Open Data
 
-Open Data Endpoints
+# Open Data Endpoints
 
     http://squash.windows/public/v1/sessions - a feed of sessions from england squash
     
-Standards
+# Standards
 
     The data feed is published to conform to OpenActive Realtime Paged Data Exchange 0.2.3 and OpenActive Modelling Opportunity Data.
     The activity list is published to conform to OpenActive Modelling Opportunity Data.
